@@ -52,14 +52,8 @@ Development tools with startup programs and discounts.
 | ![Retool](https://img.shields.io/badge/Retool-3D3D3D?logo=retool&logoColor=white) **Startup Program** | Free for up to 5 users, 10 apps | Early-stage startups | [Apply](https://retool.com/startups) |
 | ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white) **Startup Program** | $3,000 in credits | Startups less than 5 years old, less than $5M raised | [Apply](https://vercel.com/startups) |
 | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) **MongoDB for Startups** | $500 in Atlas credits, free technical advising | Startups less than 4 years old, less than $10M raised | [Apply](https://www.mongodb.com/startups) |
-| ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white) **Startup Program** | Free credits for Pro plan | Early-stage startups | [Apply](https://supabase.com/solutions/startups) |
-| ![PlanetScale](https://img.shields.io/badge/PlanetScale-000000?logo=planetscale&logoColor=white) **Startup Program** | $500/month in credits for 12 months | Startups less than 3 years old | [Apply](https://planetscale.com/startups) |
 | ![Algolia](https://img.shields.io/badge/Algolia-003DFF?logo=algolia&logoColor=white) **Startup Program** | $10,000 in credits | Early-stage startups | [Apply](https://www.algolia.com/industries-and-solutions/startups/) |
-| ![LaunchDarkly](https://img.shields.io/badge/LaunchDarkly-3DD6F5?logo=launchdarkly&logoColor=black) **Startup Program** | Free Starter plan for 12 months | Startups less than $5M in funding | [Apply](https://launchdarkly.com/startups/) |
 | ![Sentry](https://img.shields.io/badge/Sentry-362D59?logo=sentry&logoColor=white) **Startup Program** | 1 year free Team plan | Startups less than 2 years old, less than $1M raised | [Apply](https://sentry.io/for/startups/) |
-| ![CircleCI](https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=white) **Startup Program** | $1,000/month in credits for 6 months | Seed stage startups | [Apply](https://circleci.com/startups/) |
-| ![Datadog](https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=white) **Startup Program** | Free Pro plan for 2 years | Startups less than 5 years old, less than $5M raised | [Apply](https://www.datadoghq.com/partner/startup-program/) |
-| ![New Relic](https://img.shields.io/badge/New_Relic-008C99?logo=newrelic&logoColor=white) **Startup Program** | $100K in credits for year one | Early-stage startups | [Apply](https://newrelic.com/solutions/industry/startups) |
 
 ## Hosting & Infrastructure
 
