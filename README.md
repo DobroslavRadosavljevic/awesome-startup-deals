@@ -12,35 +12,56 @@ A comprehensive collection of startup deals, organized by category and provider.
 
 ## Contents
 
-- [Cloud Credits](#cloud-credits)
-- [Development Tools](#development-tools)
-- [Hosting & Infrastructure](#hosting--infrastructure)
-- [SaaS & Productivity](#saas--productivity)
-- [Marketing & Analytics](#marketing--analytics)
-- [Communication & Collaboration](#communication--collaboration)
-- [Design Tools](#design-tools)
+- [Cloud & Infrastructure](#cloud--infrastructure)
+- [Hosting & Deployment](#hosting--deployment)
+- [Databases & Backend](#databases--backend)
+- [Developer Tools](#developer-tools)
+- [Project Management](#project-management)
+- [Analytics & Product](#analytics--product)
+- [Marketing & CRM](#marketing--crm)
+- [Communication & Support](#communication--support)
+- [Design & Website Builders](#design--website-builders)
 - [Finance & Payments](#finance--payments)
 - [Contributing](#contributing)
 - [License](#license)
 
 ---
 
-## Cloud Credits
+## Cloud & Infrastructure
 
-Cloud platform credits and free tiers for startups.
+Major cloud platform credits and free tiers for startups.
 
 | Provider | Offer | Eligibility | Link |
 |----------|-------|-------------|------|
+| ![Alibaba Cloud](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?logo=alibabacloud&logoColor=white) **Startup Program** | Up to $120,000 in credits | Startups less than 5 years old | [Apply](https://www.alibabacloud.com/startup) |
 | ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white) **AWS Activate** | Up to $100,000 in credits, technical support, and training | Early-stage startups, must be affiliated with an accelerator, incubator, or VC | [Apply](https://aws.amazon.com/activate/) |
+| ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white) **Startup Program** | $250,000 in credits, Workers AI access | VC-backed startups | [Apply](https://www.cloudflare.com/forstartups/) |
+| ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white) **Startups Program** | Up to $100,000 in credits over 12 months | Startups with less than $10M in funding | [Apply](https://www.digitalocean.com/startups) |
 | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white) **Google for Startups Cloud Program** | Up to $350,000 in credits over 2 years, technical support | Seed to Series A startups, less than $15M in funding | [Apply](https://cloud.google.com/startup) |
 | ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?logo=microsoftazure&logoColor=white) **Microsoft for Startups Founders Hub** | Up to $150,000 in Azure credits, free access to GitHub Enterprise, Microsoft 365 | All startups, no funding requirements | [Apply](https://www.microsoft.com/en-us/startups) |
-| ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white) **Startups Program** | Up to $100,000 in credits over 12 months | Startups with less than $10M in funding | [Apply](https://www.digitalocean.com/startups) |
-| ![Alibaba Cloud](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?logo=alibabacloud&logoColor=white) **Startup Program** | Up to $120,000 in credits | Startups less than 5 years old | [Apply](https://www.alibabacloud.com/startup) |
 | ![OVHcloud](https://img.shields.io/badge/OVHcloud-123F6D?logo=ovh&logoColor=white) **Startup Program** | Up to $100,000 in credits | Early-stage startups | [Apply](https://startup.ovhcloud.com/) |
 
-## Development Tools
+## Hosting & Deployment
 
-Development tools with startup programs and discounts.
+Web hosting, deployment platforms, and CDN services.
+
+| Provider | Offer | Eligibility | Link |
+|----------|-------|-------------|------|
+| ![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=black) **Startup Program** | Up to $20,000 in credits | Pre-seed to Series A startups | [Apply](https://render.com/startup-program) |
+| ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white) **Startup Program** | $3,000 in credits | Startups less than 5 years old, less than $5M raised | [Apply](https://vercel.com/startups) |
+
+## Databases & Backend
+
+Database services and backend infrastructure.
+
+| Provider | Offer | Eligibility | Link |
+|----------|-------|-------------|------|
+| ![Algolia](https://img.shields.io/badge/Algolia-003DFF?logo=algolia&logoColor=white) **Startup Program** | $10,000 in credits | Early-stage startups | [Apply](https://www.algolia.com/industries-and-solutions/startups/) |
+| ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) **MongoDB for Startups** | $500 in Atlas credits, free technical advising | Startups less than 4 years old, less than $10M raised | [Apply](https://www.mongodb.com/startups) |
+
+## Developer Tools
+
+IDEs, version control, monitoring, and development utilities.
 
 | Provider | Offer | Eligibility | Link |
 |----------|-------|-------------|------|
@@ -48,59 +69,54 @@ Development tools with startup programs and discounts.
 | ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white) **GitLab for Startups** | Free GitLab Ultimate for 1 year | Pre-Series A startups, less than $5M in funding | [Apply](https://about.gitlab.com/solutions/startups/) |
 | ![JetBrains](https://img.shields.io/badge/JetBrains-000000?logo=jetbrains&logoColor=white) **Startup Program** | 50% off all products for up to 5 years | Startups less than 5 years old | [Apply](https://www.jetbrains.com/store/startups/) |
 | ![Retool](https://img.shields.io/badge/Retool-3D3D3D?logo=retool&logoColor=white) **Startup Program** | Free for up to 5 users, 10 apps | Early-stage startups | [Apply](https://retool.com/startups) |
-| ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white) **Startup Program** | $3,000 in credits | Startups less than 5 years old, less than $5M raised | [Apply](https://vercel.com/startups) |
-| ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) **MongoDB for Startups** | $500 in Atlas credits, free technical advising | Startups less than 4 years old, less than $10M raised | [Apply](https://www.mongodb.com/startups) |
-| ![Algolia](https://img.shields.io/badge/Algolia-003DFF?logo=algolia&logoColor=white) **Startup Program** | $10,000 in credits | Early-stage startups | [Apply](https://www.algolia.com/industries-and-solutions/startups/) |
 | ![Sentry](https://img.shields.io/badge/Sentry-362D59?logo=sentry&logoColor=white) **Startup Program** | 1 year free Team plan | Startups less than 2 years old, less than $1M raised | [Apply](https://sentry.io/for/startups/) |
 
-## Hosting & Infrastructure
+## Project Management
 
-Hosting, CDN, and infrastructure services.
-
-| Provider | Offer | Eligibility | Link |
-|----------|-------|-------------|------|
-| ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white) **Startup Program** | $250,000 in credits, Workers AI access | VC-backed startups | [Apply](https://www.cloudflare.com/forstartups/) |
-| ![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=black) **Startup Program** | Up to $20,000 in credits | Pre-seed to Series A startups | [Apply](https://render.com/startup-program) |
-
-## SaaS & Productivity
-
-SaaS products with special discounts for startups.
+Task management, productivity, and team collaboration tools.
 
 | Provider | Offer | Eligibility | Link |
 |----------|-------|-------------|------|
-| ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white) **Notion for Startups** | 6 months free Plus plan with unlimited AI, up to $6,000 value | Startups less than 2 years old, less than $10M raised | [Apply](https://www.notion.so/startups) |
 | ![Asana](https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=white) **Startup Program** | 50% off Business tier for 12 months | Startups less than $5M in funding | [Apply](https://asana.com/startups) |
 | ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?logo=clickup&logoColor=white) **Startup Program** | $3,000 in credits | Early-stage startups, affiliated with funding partner | [Apply](https://clickup.com/startup-program) |
 | ![Linear](https://img.shields.io/badge/Linear-5E6AD2?logo=linear&logoColor=white) **Startup Program** | Up to 6 months free | Startups with less than 50 employees, affiliated with partner | [Apply](https://linear.app/startups) |
+| ![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=white) **Startup Program** | $1,000 in credits | Startups less than 3 years old | [Apply](https://miro.com/startups/) |
+| ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white) **Notion for Startups** | 6 months free Plus plan with unlimited AI, up to $6,000 value | Startups less than 2 years old, less than $10M raised | [Apply](https://www.notion.so/startups) |
 
-## Marketing & Analytics
+## Analytics & Product
 
-Marketing, analytics, and growth tools.
+Product analytics, user behavior tracking, and insights.
+
+| Provider | Offer | Eligibility | Link |
+|----------|-------|-------------|------|
+| ![Amplitude](https://img.shields.io/badge/Amplitude-1E1E1E?logo=amplitude&logoColor=white) **Startup Program** | 1 year free Growth plan | Startups less than 3 years old, less than $10M raised | [Apply](https://amplitude.com/startups) |
+| ![Mixpanel](https://img.shields.io/badge/Mixpanel-7856FF?logo=mixpanel&logoColor=white) **Startup Program** | $50,000 in credits for 1 year | Startups less than 5 years old, less than $8M raised | [Apply](https://mixpanel.com/startups/) |
+| ![PostHog](https://img.shields.io/badge/PostHog-000000?logo=posthog&logoColor=white) **Startup Program** | $50,000 in credits for 1 year | Startups less than 2 years old, less than $5M raised | [Apply](https://posthog.com/startups) |
+
+## Marketing & CRM
+
+Marketing automation, CRM, and growth tools.
 
 | Provider | Offer | Eligibility | Link |
 |----------|-------|-------------|------|
 | ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?logo=hubspot&logoColor=white) **HubSpot for Startups** | Up to 90% off first year, then up to 50% off year 2 | Seed stage or Series A startups affiliated with a partner | [Apply](https://www.hubspot.com/startups) |
-| ![Amplitude](https://img.shields.io/badge/Amplitude-1E1E1E?logo=amplitude&logoColor=white) **Startup Program** | 1 year free Growth plan | Startups less than 3 years old, less than $10M raised | [Apply](https://amplitude.com/startups) |
-| ![Mixpanel](https://img.shields.io/badge/Mixpanel-7856FF?logo=mixpanel&logoColor=white) **Startup Program** | $50,000 in credits for 1 year | Startups less than 5 years old, less than $8M raised | [Apply](https://mixpanel.com/startups/) |
-| ![Intercom](https://img.shields.io/badge/Intercom-6AFDEF?logo=intercom&logoColor=black) **Startup Program** | 95% off for 1 year | Startups less than 2 years old, less than $1M raised | [Apply](https://www.intercom.com/early-stage) |
-| ![PostHog](https://img.shields.io/badge/PostHog-000000?logo=posthog&logoColor=white) **Startup Program** | $50,000 in credits for 1 year | Startups less than 2 years old, less than $5M raised | [Apply](https://posthog.com/startups) |
 
-## Communication & Collaboration
+## Communication & Support
 
-Communication, email, and collaboration tools.
+Customer communication, support, and messaging platforms.
 
 | Provider | Offer | Eligibility | Link |
 |----------|-------|-------------|------|
+| ![Intercom](https://img.shields.io/badge/Intercom-6AFDEF?logo=intercom&logoColor=black) **Startup Program** | 95% off for 1 year | Startups less than 2 years old, less than $1M raised | [Apply](https://www.intercom.com/early-stage) |
 | ![Zendesk](https://img.shields.io/badge/Zendesk-03363D?logo=zendesk&logoColor=white) **Startup Program** | 6 months free on any plan | Startups less than 50 employees, less than $5M raised | [Apply](https://www.zendesk.com/startups/) |
 
-## Design Tools
+## Design & Website Builders
 
-Design and creative tools with startup programs.
+Design tools, website builders, and creative platforms.
 
 | Provider | Offer | Eligibility | Link |
 |----------|-------|-------------|------|
 | ![Framer](https://img.shields.io/badge/Framer-0055FF?logo=framer&logoColor=white) **Startup Program** | 90% off for 12 months | Early-stage startups | [Apply](https://www.framer.com/startups/) |
-| ![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=white) **Startup Program** | $1,000 in credits | Startups less than 3 years old | [Apply](https://miro.com/startups/) |
 | ![Webflow](https://img.shields.io/badge/Webflow-4353FF?logo=webflow&logoColor=white) **Startup Program** | 30% off for 1 year | Early-stage startups | [Apply](https://webflow.com/startups) |
 
 ## Finance & Payments
