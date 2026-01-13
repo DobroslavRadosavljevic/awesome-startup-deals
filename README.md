@@ -13,7 +13,6 @@ A comprehensive collection of startup deals, organized by category and provider.
 ## Contents
 
 - [Cloud Credits](#cloud-credits)
-- [AI & Machine Learning](#ai--machine-learning)
 - [Development Tools](#development-tools)
 - [Hosting & Infrastructure](#hosting--infrastructure)
 - [SaaS & Productivity](#saas--productivity)
@@ -38,20 +37,8 @@ Cloud platform credits and free tiers for startups.
 | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white) **Google for Startups Cloud Program** | Up to $350,000 in credits over 2 years, technical support | Seed to Series A startups, less than $15M in funding | [Apply](https://cloud.google.com/startup) |
 | ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?logo=microsoftazure&logoColor=white) **Microsoft for Startups Founders Hub** | Up to $150,000 in Azure credits, free access to GitHub Enterprise, Microsoft 365 | All startups, no funding requirements | [Apply](https://www.microsoft.com/en-us/startups) |
 | ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white) **Startups Program** | Up to $100,000 in credits over 12 months | Startups with less than $10M in funding | [Apply](https://www.digitalocean.com/startups) |
-| ![Oracle](https://img.shields.io/badge/Oracle_Cloud-F80000?logo=oracle&logoColor=white) **Oracle for Startups** | Up to $500,000 in cloud credits | Startups building on Oracle Cloud | [Apply](https://www.oracle.com/startup/) |
 | ![Alibaba Cloud](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?logo=alibabacloud&logoColor=white) **Startup Program** | Up to $120,000 in credits | Startups less than 5 years old | [Apply](https://www.alibabacloud.com/startup) |
 | ![OVHcloud](https://img.shields.io/badge/OVHcloud-123F6D?logo=ovh&logoColor=white) **Startup Program** | Up to $100,000 in credits | Early-stage startups | [Apply](https://startup.ovhcloud.com/) |
-
-## AI & Machine Learning
-
-AI platforms and tools with startup programs.
-
-| Provider | Offer | Eligibility | Link |
-|----------|-------|-------------|------|
-| ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white) **OpenAI Startup Program** | API credits and dedicated support | AI-focused startups, VC-backed | [Apply](https://openai.com/startups/) |
-| ![Anthropic](https://img.shields.io/badge/Anthropic-191919?logo=anthropic&logoColor=white) **Anthropic Startup Program** | API credits for Claude | AI-first startups | [Apply](https://www.anthropic.com/startups) |
-| ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?logo=nvidia&logoColor=white) **Inception Program** | GPU credits, technical support, co-marketing | AI, data science, and HPC startups | [Apply](https://www.nvidia.com/en-us/startups/) |
-| ![Weights & Biases](https://img.shields.io/badge/W&B-FFBE00?logo=weightsandbiases&logoColor=black) **Academic & Startups** | Free Teams plan | Early-stage ML startups | [Apply](https://wandb.ai/site/research) |
 
 ## Development Tools
 
