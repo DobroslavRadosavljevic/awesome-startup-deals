@@ -20,8 +20,6 @@ A comprehensive collection of startup deals, organized by category and provider.
 - [Communication & Collaboration](#communication--collaboration)
 - [Design Tools](#design-tools)
 - [Finance & Payments](#finance--payments)
-- [Legal & Compliance](#legal--compliance)
-- [Business Services](#business-services)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -113,32 +111,6 @@ Payment processing, banking, and financial services.
 |----------|-------|-------------|------|
 | ![Stripe](https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white) **Stripe Atlas** | Waived processing fees for first $20K | Atlas-incorporated companies | [Apply](https://stripe.com/atlas) |
 | ![Chargebee](https://img.shields.io/badge/Chargebee-FF5733?logoColor=white) **Startup Program** | Launch plan free for 12 months | Startups less than 3 years old, less than $1M ARR | [Apply](https://www.chargebee.com/startups/) |
-
-## Legal & Compliance
-
-Legal services, compliance, and incorporation.
-
-| Provider | Offer | Eligibility | Link |
-|----------|-------|-------------|------|
-| ![Stripe](https://img.shields.io/badge/Stripe_Atlas-635BFF?logo=stripe&logoColor=white) **Stripe Atlas** | Delaware C-corp incorporation for $500, one-click 83(b) filing | Anyone starting a company | [Apply](https://stripe.com/atlas) |
-| ![Clerky](https://img.shields.io/badge/Clerky-FF6B00?logoColor=white) **Legal Documents** | Automated legal paperwork from $99 | VC-backed startups | [Apply](https://www.clerky.com/) |
-| ![Carta](https://img.shields.io/badge/Carta-00263E?logoColor=white) **Startup Plan** | Free cap table management for early stage | Startups with less than $1M raised | [Apply](https://carta.com/pricing/) |
-| ![Vanta](https://img.shields.io/badge/Vanta-5850EC?logoColor=white) **Startup Program** | Discounted SOC 2 compliance | Startups through approved partners | [Apply](https://www.vanta.com/startups) |
-| ![Drata](https://img.shields.io/badge/Drata-3E53F7?logoColor=white) **Startup Program** | 25% off compliance automation | Early-stage startups | [Apply](https://drata.com/startup-program) |
-| ![Firstbase](https://img.shields.io/badge/Firstbase-1A1A1A?logoColor=white) **Incorporation** | US company incorporation from $399 | International founders | [Apply](https://www.firstbase.io/) |
-
-## Business Services
-
-Business services with startup programs.
-
-| Provider | Offer | Eligibility | Link |
-|----------|-------|-------------|------|
-| ![ProductHunt](https://img.shields.io/badge/Product_Hunt-DA552F?logo=producthunt&logoColor=white) **Ship** | Free tools to launch your startup | All makers | [Apply](https://www.producthunt.com/ship) |
-| ![Gumroad](https://img.shields.io/badge/Gumroad-36A9AE?logo=gumroad&logoColor=white) **Discover** | Free sales platform | All creators | [Apply](https://gumroad.com/) |
-| ![DocuSign](https://img.shields.io/badge/DocuSign-FFCC22?logo=docusign&logoColor=black) **Startup Program** | Free or discounted e-signatures | Startups through partners | [Apply](https://www.docusign.com/partners/startup-program) |
-| ![Deel](https://img.shields.io/badge/Deel-4B5EF7?logoColor=white) **Startup Program** | Premium free for 1 year | Startups less than 50 employees | [Apply](https://www.deel.com/startups) |
-| ![Remote](https://img.shields.io/badge/Remote-5B26EE?logoColor=white) **Startup Program** | 25% off for 12 months | Startups less than 50 employees | [Apply](https://remote.com/startups) |
-| ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white) **Templates** | Free startup templates | All startups | [Apply](https://www.notion.so/templates/category/startup) |
 
 ---
 
