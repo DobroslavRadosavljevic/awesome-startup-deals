@@ -82,15 +82,10 @@ Marketing, analytics, and growth tools.
 | Provider | Offer | Eligibility | Link |
 |----------|-------|-------------|------|
 | ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?logo=hubspot&logoColor=white) **HubSpot for Startups** | Up to 90% off first year, then up to 50% off year 2 | Seed stage or Series A startups affiliated with a partner | [Apply](https://www.hubspot.com/startups) |
-| ![Segment](https://img.shields.io/badge/Segment-52BD94?logo=segment&logoColor=white) **Startup Program** | $50,000 in credits | Startups less than 2 years old, less than $5M raised | [Apply](https://segment.com/startups/) |
 | ![Amplitude](https://img.shields.io/badge/Amplitude-1E1E1E?logo=amplitude&logoColor=white) **Startup Program** | 1 year free Growth plan | Startups less than 3 years old, less than $10M raised | [Apply](https://amplitude.com/startups) |
 | ![Mixpanel](https://img.shields.io/badge/Mixpanel-7856FF?logo=mixpanel&logoColor=white) **Startup Program** | $50,000 in credits for 1 year | Startups less than 5 years old, less than $8M raised | [Apply](https://mixpanel.com/startups/) |
-| ![Mailchimp](https://img.shields.io/badge/Mailchimp-FFE01B?logo=mailchimp&logoColor=black) **Startup Program** | Standard plan free for 6 months | Early-stage startups | [Apply](https://mailchimp.com/for/startups/) |
-| ![Customer.io](https://img.shields.io/badge/Customer.io-1A82E2?logoColor=white) **Startup Program** | 12 months free | Startups less than 2 years old, less than $3M raised | [Apply](https://customer.io/startups/) |
 | ![Intercom](https://img.shields.io/badge/Intercom-6AFDEF?logo=intercom&logoColor=black) **Startup Program** | 95% off for 1 year | Startups less than 2 years old, less than $1M raised | [Apply](https://www.intercom.com/early-stage) |
-| ![Hotjar](https://img.shields.io/badge/Hotjar-FD3A5C?logo=hotjar&logoColor=white) **Startup Program** | 12 months free Business plan | Startups less than 3 years old | [Apply](https://www.hotjar.com/startups/) |
 | ![PostHog](https://img.shields.io/badge/PostHog-000000?logo=posthog&logoColor=white) **Startup Program** | $50,000 in credits for 1 year | Startups less than 2 years old, less than $5M raised | [Apply](https://posthog.com/startups) |
-| ![Clearbit](https://img.shields.io/badge/Clearbit-3E82F7?logoColor=white) **Startup Program** | Free for 12 months | Early-stage startups | [Apply](https://clearbit.com/startups) |
 
 ## Communication & Collaboration
 
@@ -100,7 +95,6 @@ Communication, email, and collaboration tools.
 |----------|-------|-------------|------|
 | ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white) **Startup Program** | 50% off for 12 months | Startups less than 50 employees | [Apply](https://slack.com/startups) |
 | ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white) **Investor Alliances Accelerator** | Developer credits and Zoom One discounts | Portfolio companies of approved partner firms | [Apply](https://zoom.com/en/investor-alliances-dev) |
-| ![Twilio](https://img.shields.io/badge/Twilio-F22F46?logo=twilio&logoColor=white) **Startup Program** | $5,000 in credits | Startups affiliated with partners | [Apply](https://www.twilio.com/en-us/startups) |
 | ![SendGrid](https://img.shields.io/badge/SendGrid-51A9E3?logoColor=white) **Startup Program** | 12 months free Pro 100K plan | Startups less than 5 years old | [Apply](https://sendgrid.com/en-us/marketing/startup-program) |
 | ![Zendesk](https://img.shields.io/badge/Zendesk-03363D?logo=zendesk&logoColor=white) **Startup Program** | 6 months free on any plan | Startups less than 50 employees, less than $5M raised | [Apply](https://www.zendesk.com/startups/) |
 | ![Freshworks](https://img.shields.io/badge/Freshworks-E24E1B?logo=freshworks&logoColor=white) **Startup Program** | $10,000 in credits | Early-stage startups | [Apply](https://www.freshworks.com/startup-program/) |
