@@ -62,8 +62,6 @@ Hosting, CDN, and infrastructure services.
 | Provider | Offer | Eligibility | Link |
 |----------|-------|-------------|------|
 | ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white) **Startup Program** | $250,000 in credits, Workers AI access | VC-backed startups | [Apply](https://www.cloudflare.com/forstartups/) |
-| ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white) **Startup Program** | Up to $100,000 in credits | Startups less than 3 years old | [Apply](https://www.netlify.com/for/startups/) |
-| ![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white) **Startup Program** | Credits and dedicated support | Early-stage startups | [Apply](https://railway.app/startups) |
 | ![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=black) **Startup Program** | Up to $20,000 in credits | Pre-seed to Series A startups | [Apply](https://render.com/startup-program) |
 
 ## SaaS & Productivity
@@ -73,12 +71,9 @@ SaaS products with special discounts for startups.
 | Provider | Offer | Eligibility | Link |
 |----------|-------|-------------|------|
 | ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white) **Notion for Startups** | 6 months free Plus plan with unlimited AI, up to $6,000 value | Startups less than 2 years old, less than $10M raised | [Apply](https://www.notion.so/startups) |
-| ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?logo=airtable&logoColor=white) **Startup Program** | $2,000 in credits | Early-stage startups | [Apply](https://www.airtable.com/lp/startup-program) |
 | ![Asana](https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=white) **Startup Program** | 50% off Business tier for 12 months | Startups less than $5M in funding | [Apply](https://asana.com/startups) |
-| ![Monday.com](https://img.shields.io/badge/Monday.com-FF3366?logo=monday&logoColor=white) **Startup Program** | 90% off for 1 year | Startups less than 2 years old | [Apply](https://monday.com/startups) |
 | ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?logo=clickup&logoColor=white) **Startup Program** | $3,000 in credits | Early-stage startups, affiliated with funding partner | [Apply](https://clickup.com/startup-program) |
 | ![Linear](https://img.shields.io/badge/Linear-5E6AD2?logo=linear&logoColor=white) **Startup Program** | Up to 6 months free | Startups with less than 50 employees, affiliated with partner | [Apply](https://linear.app/startups) |
-| ![1Password](https://img.shields.io/badge/1Password-0094F5?logo=1password&logoColor=white) **Startup Program** | Free for 1 year (up to 50 team members) | Startups less than $10M raised, affiliated with partner | [Apply](https://1password.com/startups) |
 
 ## Marketing & Analytics
 
