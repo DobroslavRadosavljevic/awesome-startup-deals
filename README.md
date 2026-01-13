@@ -93,12 +93,7 @@ Communication, email, and collaboration tools.
 
 | Provider | Offer | Eligibility | Link |
 |----------|-------|-------------|------|
-| ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white) **Startup Program** | 50% off for 12 months | Startups less than 50 employees | [Apply](https://slack.com/startups) |
-| ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white) **Investor Alliances Accelerator** | Developer credits and Zoom One discounts | Portfolio companies of approved partner firms | [Apply](https://zoom.com/en/investor-alliances-dev) |
-| ![SendGrid](https://img.shields.io/badge/SendGrid-51A9E3?logoColor=white) **Startup Program** | 12 months free Pro 100K plan | Startups less than 5 years old | [Apply](https://sendgrid.com/en-us/marketing/startup-program) |
 | ![Zendesk](https://img.shields.io/badge/Zendesk-03363D?logo=zendesk&logoColor=white) **Startup Program** | 6 months free on any plan | Startups less than 50 employees, less than $5M raised | [Apply](https://www.zendesk.com/startups/) |
-| ![Freshworks](https://img.shields.io/badge/Freshworks-E24E1B?logo=freshworks&logoColor=white) **Startup Program** | $10,000 in credits | Early-stage startups | [Apply](https://www.freshworks.com/startup-program/) |
-| ![Loom](https://img.shields.io/badge/Loom-625DF5?logo=loom&logoColor=white) **Startup Program** | Free Business plan for 1 year | Startups less than 50 employees, less than $10M raised | [Apply](https://www.loom.com/startups) |
 
 ## Design Tools
 
@@ -106,8 +101,6 @@ Design and creative tools with startup programs.
 
 | Provider | Offer | Eligibility | Link |
 |----------|-------|-------------|------|
-| ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) **Startup Program** | 2 years free Organization plan | Startups less than 3 years old, less than $10M raised | [Apply](https://www.figma.com/startups/) |
-| ![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white) **Startup Program** | Free Canva for Teams for 1 year | Startups in approved programs | [Apply](https://www.canva.com/for/startups/) |
 | ![Framer](https://img.shields.io/badge/Framer-0055FF?logo=framer&logoColor=white) **Startup Program** | 90% off for 12 months | Early-stage startups | [Apply](https://www.framer.com/startups/) |
 | ![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=white) **Startup Program** | $1,000 in credits | Startups less than 3 years old | [Apply](https://miro.com/startups/) |
 | ![Webflow](https://img.shields.io/badge/Webflow-4353FF?logo=webflow&logoColor=white) **Startup Program** | 30% off for 1 year | Early-stage startups | [Apply](https://webflow.com/startups) |
@@ -119,10 +112,6 @@ Payment processing, banking, and financial services.
 | Provider | Offer | Eligibility | Link |
 |----------|-------|-------------|------|
 | ![Stripe](https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white) **Stripe Atlas** | Waived processing fees for first $20K | Atlas-incorporated companies | [Apply](https://stripe.com/atlas) |
-| ![Brex](https://img.shields.io/badge/Brex-111111?logoColor=white) **Startup Program** | 20,000 points, discounts from partners | VC-backed startups | [Apply](https://www.brex.com/startups) |
-| ![Mercury](https://img.shields.io/badge/Mercury-6E54B5?logoColor=white) **Startup Banking** | Free banking, partner perks | US-based startups | [Apply](https://mercury.com/) |
-| ![Ramp](https://img.shields.io/badge/Ramp-06A77D?logoColor=white) **Startup Program** | $25,000 in partner perks | VC-backed startups | [Apply](https://ramp.com/startup) |
-| ![Plaid](https://img.shields.io/badge/Plaid-111111?logo=plaid&logoColor=white) **Startup Program** | Credits and dedicated support | Early-stage fintech startups | [Apply](https://plaid.com/solutions/startups/) |
 | ![Chargebee](https://img.shields.io/badge/Chargebee-FF5733?logoColor=white) **Startup Program** | Launch plan free for 12 months | Startups less than 3 years old, less than $1M ARR | [Apply](https://www.chargebee.com/startups/) |
 
 ## Legal & Compliance
