@@ -22,6 +22,7 @@ This collection of startup deals is curated by the author, the open source commu
 - [Communication & Support](#communication--support)
 - [Design & Website Builders](#design--website-builders)
 - [Finance & Payments](#finance--payments)
+- [Deal Aggregators](#deal-aggregators)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -128,6 +129,18 @@ Payment processing, banking, and financial services.
 |----------|-------|-------------|------|
 | ![Stripe](https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white) **Stripe Atlas** | Waived processing fees for first $20K | Atlas-incorporated companies | [Apply](https://stripe.com/atlas) |
 | ![Chargebee](https://img.shields.io/badge/Chargebee-FF5733?logoColor=white) **Startup Program** | Launch plan free for 12 months | Startups less than 3 years old, less than $1M ARR | [Apply](https://www.chargebee.com/startups/) |
+
+## Deal Aggregators
+
+Platforms that aggregate multiple startup deals, discounts, and perks in one place.
+
+| Provider | Offer | Eligibility | Link |
+|----------|-------|-------------|------|
+| ![FounderPass](https://img.shields.io/badge/FounderPass-000000?logoColor=white) **FounderPass** | Over $3M in savings, 350+ verified deals | Free tier available, Premium and Lifetime plans | [Visit](https://www.founderpass.com/) |
+| ![Secret](https://img.shields.io/badge/Secret-000000?logoColor=white) **Secret** | Over $1M in software savings, 700+ exclusive discounts | Free access, Premium plans available | [Visit](https://www.joinsecret.com/) |
+| ![StartGround](https://img.shields.io/badge/StartGround-000000?logoColor=white) **StartGround** | Over $1M in deals and free credits | Startup community membership | [Visit](https://startground.com/) |
+| ![Startup Stack](https://img.shields.io/badge/Startup_Stack-000000?logoColor=white) **Startup Stack** | Founder-only discounts, curated by accelerators/VCs | Free 5-day trial, then $19.95/month | [Visit](https://startupstack.com/founders) |
+| ![SeedReady](https://img.shields.io/badge/SeedReady-000000?logoColor=white) **SeedReady** | Over $750K in startup deals | Free access | [Visit](https://www.seedready.org/startup-deals/) |
 
 ## AWS Activate Partner Offers
 
