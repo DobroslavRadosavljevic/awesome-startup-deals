@@ -62,6 +62,8 @@ Database services and backend infrastructure.
 | ![Neon](https://img.shields.io/badge/Neon-018281?logo=neon&logoColor=white) **Startup Program** | Up to $100,000 in credits over 12 months | Venture-backed, raised $1M-$5M, launched in past 12 months | [Apply](https://neon.com/startups) |
 | ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white) **Startup Program** | Free Redis for 6 months, early access to features | Qualifying startups | [Apply](https://redis.io/startups) |
 | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white) **AWS Activate** | $300 in credits over 12 months | Via AWS Activate Portfolio | [Apply](https://aws.amazon.com/startups/offers) |
+| ![Aiven](https://img.shields.io/badge/Aiven-FF6900?logo=aiven&logoColor=white) **Google Cloud Perks** | Up to $100K for Aiven Platform + support | Funded startups with MVP, via Google Cloud Scale Tier | [Apply](https://cloud.google.com/startup/perks) |
+| ![Confluent](https://img.shields.io/badge/Confluent-424242?logo=confluent&logoColor=white) **AWS Activate** | Up to $20,000 in Confluent Cloud credits | Via AWS Activate Portfolio, includes technical help | [Apply](https://aws.amazon.com/startups/offers) |
 
 ## Developer Tools
 
@@ -74,6 +76,12 @@ IDEs, version control, monitoring, and development utilities.
 | ![JetBrains](https://img.shields.io/badge/JetBrains-000000?logo=jetbrains&logoColor=white) **Startup Program** | 50% off all products for up to 5 years | Startups less than 5 years old | [Apply](https://www.jetbrains.com/store/startups/) |
 | ![Retool](https://img.shields.io/badge/Retool-3D3D3D?logo=retool&logoColor=white) **Startup Program** | Free for one year, up to $60K value | Bootstrapped to Series A, less than $10M funding, founded within last 10 years, new customers | [Apply](https://retool.com/startups) |
 | ![Sentry](https://img.shields.io/badge/Sentry-362D59?logo=sentry&logoColor=white) **Startup Program** | $5,000 in credits (valid for 1 year), priority support | Founded in last 2 years, raised less than $5M, new to paying for Sentry | [Apply](https://sentry.io/for/startups/) |
+| ![Auth0](https://img.shields.io/badge/Auth0-EB5424?logo=auth0&logoColor=white) **Startup Program** | 1 year free B2B Professional plan (100K MAUs, Enterprise MFA) | Venture-backed, less than $5M funding, less than $1M ARR, less than 2 years old | [Apply](https://auth0.com/startups) |
+| ![Clerk](https://img.shields.io/badge/Clerk-000000?logo=clerk&logoColor=white) **Startup Program** | Free for 10K MAUs, Pro discount available | Up to 1 year after launch, up to $5M venture funding | [Apply](https://clerk.com/startups) |
+| ![Datadog](https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=white) **Startup Program** | Up to $100K in credits for 1 year (Datadog Pro) | Series A or earlier, referred by partner, new customers | [Apply](https://www.datadoghq.com/partner/datadog-for-startups/) |
+| ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white) **Startup Program** | Up to $100,000 in Grafana Cloud credits for 12 months | Less than $10M funding, under 25 employees (ideal), new customers | [Apply](https://grafana.com/blog/2024/09/24/grafana-labs-startup-program) |
+| ![New Relic](https://img.shields.io/badge/New_Relic-008C99?logo=newrelic&logoColor=white) **Startup Program** | Free tier: 100GB + 1 user free, startup program available | Seed to pre-Series B, less than 10 years old, fewer than 100 employees | [Apply](https://newrelic.com/solutions/industry/startups) |
+| ![Temporal](https://img.shields.io/badge/Temporal-000000?logo=temporal&logoColor=white) **AWS Activate** | $1,500 in free credits | Via AWS Activate Portfolio | [Apply](https://aws.amazon.com/startups/offers) |
 
 ## Project Management
 
@@ -97,6 +105,10 @@ Product analytics, user behavior tracking, and insights.
 | ![Amplitude](https://img.shields.io/badge/Amplitude-1E1E1E?logo=amplitude&logoColor=white) **Startup Program** | 1 year free Growth plan | Startups less than 3 years old, less than $10M raised | [Apply](https://amplitude.com/startups) |
 | ![Mixpanel](https://img.shields.io/badge/Mixpanel-7856FF?logo=mixpanel&logoColor=white) **Startup Program** | First year free on Startup Plan (up to 1B events/year, all features) | Incorporated less than 5 years ago, raised no more than $8M, new customers | [Apply](https://mixpanel.com/startups/) |
 | ![PostHog](https://img.shields.io/badge/PostHog-000000?logo=posthog&logoColor=white) **Startup Program** | $50,000 in credits for 1 year | Startups less than 2 years old, less than $5M raised | [Apply](https://posthog.com/startups) |
+| ![Anthropic](https://img.shields.io/badge/Anthropic-BF00FF?logo=anthropic&logoColor=white) **Google Cloud Perks** | Up to $10K for Claude API credits | Via Google Cloud Scale Tier, venture-backed | [Apply](https://cloud.google.com/startup/perks) |
+| ![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white) **Google Cloud Perks** | Up to $50K for Databricks + free support | Via Google Cloud Scale Tier | [Apply](https://cloud.google.com/startup/perks) |
+| ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white) **Startup Program** | API credits (typically ~$25K) | Venture-backed startups via VC partner network | [Apply](https://openai.com/startups/) |
+| ![Pinecone](https://img.shields.io/badge/Pinecone-430098?logo=pinecone&logoColor=white) **Startup Program** | Free Standard Tier + Pro Support (valued at $840) | Fewer than 100 employees, Series A or earlier | [Apply](https://www.pinecone.io/startup-program/) |
 
 ## Marketing & CRM
 
@@ -105,6 +117,10 @@ Marketing automation, CRM, and growth tools.
 | Provider | Offer | Eligibility | Link |
 |----------|-------|-------------|------|
 | ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?logo=hubspot&logoColor=white) **HubSpot for Startups** | Up to 90% off first year (less than $2M funding), up to 50% off year 2 | Seed stage or Series A startups affiliated with approved partner or verified funding | [Apply](https://www.hubspot.com/startups) |
+| ![ActiveCampaign](https://img.shields.io/badge/ActiveCampaign-0064FF?logo=activecampaign&logoColor=white) **Incubator Program** | 90% off any annual plan for first year | Less than 2 years old, incubator partner/alum, less than $1M funding, new customers | [Apply](https://activecampaign.com/start-up) |
+| ![Brevo](https://img.shields.io/badge/Brevo-0695C2?logo=brevo&logoColor=white) **Startup Program** | Up to 75% discount via partner programs | Startups (discounts available through select partners) | [Apply](https://www.brevo.com/startups/) |
+| ![SendGrid](https://img.shields.io/badge/SendGrid-1A82E2?logo=sendgrid&logoColor=white) **Accelerate Program** | Pro 100k Plan (up to 100K emails/month, valued at $959/year) | Startups, accelerators, incubators, VCs | [Apply](https://gust.com/programs/accelerate-program) |
+| ![Customer.io](https://img.shields.io/badge/Customer.io-00A2FF?logo=customer.io&logoColor=white) **Startup Program** | Free for 12 months (Startup plan, 30K profiles included) | Less than $10M funding, contact lists not purchased, new customers | [Apply](https://customer.io/solutions/startups) |
 
 ## Communication & Support
 
@@ -116,6 +132,10 @@ Customer communication, support, and messaging platforms.
 | ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white) **AWS Activate** | 30% off Business+ for first year | Via AWS Activate Portfolio | [Apply](https://aws.amazon.com/startups/offers) |
 | ![Twilio](https://img.shields.io/badge/Twilio-F22F46?logo=twilio&logoColor=white) **Startup Program** | $3,000 in credits, access to all APIs, technical support | Building communications solutions using Twilio APIs | [Apply](https://twilio.com/en-us/solutions/startups) |
 | ![Zendesk](https://img.shields.io/badge/Zendesk-03363D?logo=zendesk&logoColor=white) **Startup Program** | 6 months free on any plan | Startups less than 50 employees, up to Series B funding, new customers | [Apply](https://www.zendesk.com/startups/) |
+| ![Elastic](https://img.shields.io/badge/Elastic-005571?logo=elastic&logoColor=white) **Google Cloud Perks** | $5K for Elastic Cloud, expert advice | Via Google Cloud Scale Tier | [Apply](https://cloud.google.com/startup/perks) |
+| ![JFrog](https://img.shields.io/badge/JFrog-41BF47?logo=jfrog&logoColor=white) **Google Cloud Perks** | 20% off DevOps and DevSecOps Platform | Via Google Cloud Scale Tier | [Apply](https://cloud.google.com/startup/perks) |
+| ![Chronosphere](https://img.shields.io/badge/Chronosphere-000000?logo=chronosphere&logoColor=white) **Google Cloud Perks** | 2 free months + O11y Starter Pack | Via Google Cloud Scale Tier | [Apply](https://cloud.google.com/startup/perks) |
+| ![PlanetScale](https://img.shields.io/badge/PlanetScale-000000?logo=planetscale&logoColor=white) **Startup Program** | Credits and discounts available | Early-stage startups (contact for details) | [Apply](https://planetscale.com/startups) |
 
 ## Design & Website Builders
 
