@@ -47,8 +47,8 @@ Web hosting, deployment platforms, and CDN services.
 
 | Provider | Offer | Eligibility | Link |
 |----------|-------|-------------|------|
-| ![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=black) **Startup Program** | Up to $20,000 in credits | Pre-seed to Series A startups | [Apply](https://render.com/startup-program) |
-| ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white) **Startup Program** | $3,000 in credits | Startups less than 5 years old, less than $5M raised | [Apply](https://vercel.com/startups) |
+| ![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=black) **Startup Program** | Up to $100,000 in credits | Based on funding stage and VC/accelerator partnerships | [Apply](https://render.com/startup-program) |
+| ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white) **Startup Program** | $2,400 in Pro credits ($200/month for 1 year) | Startups less than 5 years old, less than $5M raised | [Apply](https://vercel.com/startups) |
 
 ## Databases & Backend
 
@@ -77,11 +77,12 @@ Task management, productivity, and team collaboration tools.
 
 | Provider | Offer | Eligibility | Link |
 |----------|-------|-------------|------|
-| ![Asana](https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=white) **Startup Program** | 50% off Business tier for 12 months | Startups less than $5M in funding | [Apply](https://asana.com/startups) |
-| ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?logo=clickup&logoColor=white) **Startup Program** | $3,000 in credits | Early-stage startups, affiliated with funding partner | [Apply](https://clickup.com/startup-program) |
-| ![Linear](https://img.shields.io/badge/Linear-5E6AD2?logo=linear&logoColor=white) **Startup Program** | Up to 6 months free | Startups with less than 50 employees, affiliated with partner | [Apply](https://linear.app/startups) |
-| ![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=white) **Startup Program** | $1,000 in credits | Startups less than 3 years old | [Apply](https://miro.com/startups/) |
+| ![Asana](https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=white) **Startup Program** | 50% off Business tier for 12 months / 75% off Starter & Advanced plans for 1 year (Secret) | Startups less than $5M in funding | [Apply](https://asana.com/startups) |
+| ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?logo=clickup&logoColor=white) **Startup Program** | $3,000 in credits / 20% off Unlimited & Business plans for 1 year (Secret) | Early-stage startups, affiliated with funding partner | [Apply](https://clickup.com/startup-program) |
+| ![Linear](https://img.shields.io/badge/Linear-5E6AD2?logo=linear&logoColor=white) **Startup Program** | Up to 6 months free / 1 year free on Basic or Business plans (2 seats, Secret) | Startups with less than 50 employees, affiliated with partner | [Apply](https://linear.app/startups) |
+| ![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=white) **Startup Program** | $1,000 in credits / $1,000 in credits (lifetime validity, Secret) | Startups less than 3 years old | [Apply](https://miro.com/startups/) |
 | ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white) **Notion for Startups** | 6 months free Plus plan with unlimited AI, up to $6,000 value | Startups less than 2 years old, less than $10M raised | [Apply](https://www.notion.so/startups) |
+| ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white) **AWS Activate** | 6 months free Business Plan + Unlimited AI | Via AWS Activate Portfolio | [Apply](https://aws.amazon.com/startups/offers) |
 
 ## Analytics & Product
 
@@ -127,6 +128,21 @@ Payment processing, banking, and financial services.
 |----------|-------|-------------|------|
 | ![Stripe](https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white) **Stripe Atlas** | Waived processing fees for first $20K | Atlas-incorporated companies | [Apply](https://stripe.com/atlas) |
 | ![Chargebee](https://img.shields.io/badge/Chargebee-FF5733?logoColor=white) **Startup Program** | Launch plan free for 12 months | Startups less than 3 years old, less than $1M ARR | [Apply](https://www.chargebee.com/startups/) |
+
+## AWS Activate Partner Offers
+
+AWS Activate provides access to exclusive offers from partner companies, including additional SaaS discounts and credits beyond the core AWS credits. Recent partner offers include:
+
+- **Notion**: 6 months free Business Plan + Unlimited AI
+- **Slack**: 30% off Business+ for the first year
+- **Miro**: $1,000 credits
+- **Asana**: 90% off annual subscription
+- **Intercom**: 12 months free
+- **HubSpot**: Up to 75% off first year
+- **Zendesk**: 6 months free
+- And many more developer tools, productivity platforms, and business services
+
+[View all AWS Activate partner offers](https://aws.amazon.com/startups/offers)
 
 ---
 
