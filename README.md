@@ -33,13 +33,13 @@ Major cloud platform credits and free tiers for startups.
 
 | Provider | Offer | Eligibility | Link |
 |----------|-------|-------------|------|
-| ![Alibaba Cloud](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?logo=alibabacloud&logoColor=white) **Startup Program** | Up to $120,000 in credits | Startups less than 5 years old | [Apply](https://www.alibabacloud.com/startup) |
-| ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white) **AWS Activate** | Up to $100,000 in credits, technical support, and training | Early-stage startups, must be affiliated with an accelerator, incubator, or VC | [Apply](https://aws.amazon.com/activate/) |
-| ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white) **Startup Program** | $250,000 in credits, Workers AI access | VC-backed startups | [Apply](https://www.cloudflare.com/forstartups/) |
-| ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white) **Startups Program** | Up to $100,000 in credits over 12 months | Startups with less than $10M in funding | [Apply](https://www.digitalocean.com/startups) |
-| ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white) **Google for Startups Cloud Program** | Up to $350,000 in credits over 2 years, technical support | Seed to Series A startups, less than $15M in funding | [Apply](https://cloud.google.com/startup) |
-| ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?logo=microsoftazure&logoColor=white) **Microsoft for Startups Founders Hub** | Up to $150,000 in Azure credits, free access to GitHub Enterprise, Microsoft 365 | All startups, no funding requirements | [Apply](https://www.microsoft.com/en-us/startups) |
-| ![OVHcloud](https://img.shields.io/badge/OVHcloud-123F6D?logo=ovh&logoColor=white) **Startup Program** | Up to $100,000 in credits | Early-stage startups | [Apply](https://startup.ovhcloud.com/) |
+| ![Alibaba Cloud](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?logo=alibabacloud&logoColor=white) **Startup Program** | Up to $120,000 in credits | Startups founded within last 10 years, funded, with website/company email, working prototype, scalable business with international potential | [Apply](https://www.alibabacloud.com/startup) |
+| ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white) **AWS Activate** | Up to $100,000 in credits, technical support, and training | Pre-Series B startups founded within last 10 years, self-funded or VC-backed via Activate Portfolio tier | [Apply](https://aws.amazon.com/activate/) |
+| ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white) **Startup Program** | $250,000 in credits, Workers AI access | Software product/service with active website, funded up to Series B, founded within last 5 years | [Apply](https://www.cloudflare.com/forstartups/) |
+| ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white) **Startups Program** | Up to $100,000 in credits over 12 months | Less than 6 years old, less than $10M revenue, pre-Series B, affiliated with accelerator/incubator/VC | [Apply](https://www.digitalocean.com/startups) |
+| ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white) **Google for Startups Cloud Program** | Up to $350,000 in credits over 2 years, technical support | Equity funding pre-seed to Series A (Series A within last 12 months), founded within last 10 years | [Apply](https://cloud.google.com/startup) |
+| ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?logo=microsoftazure&logoColor=white) **Microsoft for Startups Founders Hub** | Up to $150,000 in Azure credits, free access to GitHub Enterprise, Microsoft 365 | Software-based product/service (owned), privately held for-profit, less than Series D funding | [Apply](https://www.microsoft.com/en-us/startups) |
+| ![OVHcloud](https://img.shields.io/badge/OVHcloud-123F6D?logo=ovh&logoColor=white) **Startup Program** | Up to $100,000 in credits | Innovative technical startups with growth potential, proof of concept or MVP required | [Apply](https://startup.ovhcloud.com/) |
 
 ## Hosting & Deployment
 
@@ -56,7 +56,7 @@ Database services and backend infrastructure.
 
 | Provider | Offer | Eligibility | Link |
 |----------|-------|-------------|------|
-| ![Algolia](https://img.shields.io/badge/Algolia-003DFF?logo=algolia&logoColor=white) **Startup Program** | $10,000 in credits | Early-stage startups | [Apply](https://www.algolia.com/industries-and-solutions/startups/) |
+| ![Algolia](https://img.shields.io/badge/Algolia-003DFF?logo=algolia&logoColor=white) **Startup Program** | $10,000 in credits | Less than 3 years old, less than $5M funding, new Algolia customers | [Apply](https://www.algolia.com/industries-and-solutions/startups/) |
 | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) **MongoDB for Startups** | $500 in Atlas credits, free technical advising | Startups less than 4 years old, less than $10M raised | [Apply](https://www.mongodb.com/startups) |
 
 ## Developer Tools
@@ -65,7 +65,7 @@ IDEs, version control, monitoring, and development utilities.
 
 | Provider | Offer | Eligibility | Link |
 |----------|-------|-------------|------|
-| ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) **GitHub for Startups** | 20 seats of GitHub Enterprise free for 1 year | Startups Series A or earlier, affiliated with a partner | [Apply](https://github.com/enterprise/startups) |
+| ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) **GitHub for Startups** | 20 seats of GitHub Enterprise free for 1 year | Funded up to Series B or earlier, or associated with GitHub for Startups partner | [Apply](https://github.com/enterprise/startups) |
 | ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white) **GitLab for Startups** | Free GitLab Ultimate for 1 year | Pre-Series A startups, less than $5M in funding | [Apply](https://about.gitlab.com/solutions/startups/) |
 | ![JetBrains](https://img.shields.io/badge/JetBrains-000000?logo=jetbrains&logoColor=white) **Startup Program** | 50% off all products for up to 5 years | Startups less than 5 years old | [Apply](https://www.jetbrains.com/store/startups/) |
 | ![Retool](https://img.shields.io/badge/Retool-3D3D3D?logo=retool&logoColor=white) **Startup Program** | Free for up to 5 users, 10 apps | Early-stage startups | [Apply](https://retool.com/startups) |
