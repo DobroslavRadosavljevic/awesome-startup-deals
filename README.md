@@ -8,7 +8,7 @@
 
 A comprehensive collection of startup deals, organized by category and provider. Includes cloud credits, SaaS discounts, development tools, and business services with special offers for startups.
 
-> **Note**: Some links in this list may be affiliate links. We may earn commissions when you click on them and make a purchase, at no additional cost to you.
+This collection of startup deals is curated by the author, the open source community, and with the assistance of AI technology. Due to the involvement of AI in data collection and processing, some information may not be 100% accurate. We encourage the community to propose corrections and updates through pull requests.
 
 ## Contents
 
@@ -166,4 +166,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Disclaimer**: This list is maintained by the community. Deals and offers may change at any time. Always verify current terms on the provider's website before applying. Some links may be affiliate links.
+**Disclaimer**: This list is maintained by the community. Deals and offers may change at any time. Always verify current terms on the provider's website before applying.
