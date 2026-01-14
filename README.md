@@ -38,6 +38,10 @@ This collection of startup deals is curated by the author, the open source commu
   - [Design Tools](#design-tools)
   - [Website Builders](#website-builders)
 - [Finance & Payments](#finance--payments)
+- [HR & Payroll](#hr--payroll)
+- [Security & Compliance](#security--compliance)
+- [Communication & Video](#communication--video)
+- [Legal & E-Signature](#legal--e-signature)
 - [Deal Aggregators](#deal-aggregators)
 - [Contributing](#contributing)
 - [License](#license)
@@ -59,6 +63,7 @@ Major cloud platform credits and free tiers for startups.
 | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white) **Google for Startups Cloud Program** | Up to $350,000 in credits over 2 years, technical support | Equity funding pre-seed to Series A (Series A within last 12 months), founded within last 10 years | [Apply](https://cloud.google.com/startup) |
 | ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?logo=microsoftazure&logoColor=white) **Microsoft for Startups Founders Hub** | Up to $5,000 in Azure credits (basic), up to $150,000 (investor-backed), free access to GitHub Enterprise, Microsoft 365 | Software-based product/service (owned), privately held for-profit, less than Series D funding. Investor-backed startups eligible for higher tier | [Apply](https://www.microsoft.com/en-us/startups) |
 | ![OVHcloud](https://img.shields.io/badge/OVHcloud-123F6D?logo=ovh&logoColor=white) **Startup Program** | Up to $100,000 in credits | Innovative technical startups with growth potential, proof of concept or MVP required | [Apply](https://startup.ovhcloud.com/) |
+| ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white) **Snowflake for Startups** | Free usage credits, Startup Accelerator access, VC community | Startups building data/AI applications, venture-backed preferred | [Apply](https://www.snowflake.com/en/why-snowflake/startup-program/) |
 
 ### Hosting & Deployment
 
@@ -105,6 +110,8 @@ AI APIs, large language models, and machine learning platforms.
 |----------|-------|-------------|------|
 | ![Anthropic](https://img.shields.io/badge/Anthropic-BF00FF?logo=anthropic&logoColor=white) **Google Cloud Perks** | Up to $10K for Claude API credits | Via Google Cloud Scale Tier, venture-backed | [Apply](https://cloud.google.com/startup/perks) |
 | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white) **Startup Program** | API credits (typically ~$25K) | Venture-backed startups via VC partner network | [Apply](https://openai.com/startups/) |
+| ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?logo=nvidia&logoColor=white) **Inception Program** | Free program: preferred pricing on hardware/software, cloud credits, training, VC introductions | AI startups at any funding stage, incorporated, less than 10 years old | [Apply](https://www.nvidia.com/en-us/startups/) |
+| ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?logoColor=white) **Startup Grants** | 12 months free access, 33M characters ($4,000+ value), Scale tier benefits, high concurrency | Startups with <25 employees, monetized product use case, business email required | [Apply](https://elevenlabs.io/grants) |
 
 ---
 
@@ -119,6 +126,7 @@ Source control, CI/CD, and DevOps platforms.
 | ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) **GitHub for Startups** | 20 seats of GitHub Enterprise free for 1 year | Funded up to Series B or earlier, or associated with GitHub for Startups partner | [Apply](https://github.com/enterprise/startups) |
 | ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white) **GitLab for Startups** | Free GitLab Ultimate for 1 year (up to 20 seats) | Pre-Seed or Seed stage, up to $5M in external funding, new customers only | [Apply](https://about.gitlab.com/solutions/startups/) |
 | ![JFrog](https://img.shields.io/badge/JFrog-41BF47?logo=jfrog&logoColor=white) **Google Cloud Perks** | 20% off DevOps and DevSecOps Platform | Via Google Cloud Scale Tier | [Apply](https://cloud.google.com/startup/perks) |
+| ![CircleCI](https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=white) **Startup Program** | Free plan: 30K credits/month, 5 users, self-hosted runners, startup support package | Open to all startups | [Apply](https://circleci.com/solutions/startups/) |
 
 ### IDEs & Development Environments
 
@@ -128,6 +136,7 @@ Integrated development environments and low-code development tools.
 |----------|-------|-------------|------|
 | ![JetBrains](https://img.shields.io/badge/JetBrains-000000?logo=jetbrains&logoColor=white) **Startup Program** | 50% off all products for up to 5 years | Startups less than 5 years old | [Apply](https://www.jetbrains.com/store/startups/) |
 | ![Retool](https://img.shields.io/badge/Retool-3D3D3D?logo=retool&logoColor=white) **Startup Program** | Free for one year, up to $60K value | Bootstrapped to Series A, less than $10M funding, founded within last 10 years, new customers | [Apply](https://retool.com/startups) |
+| ![LaunchDarkly](https://img.shields.io/badge/LaunchDarkly-3A2D82?logo=launchdarkly&logoColor=white) **Startup Program** | 1 year free access ($32.2K value): Feature Management, 100K Experimentation Keys | Up to Series A funding, referred by startup ecosystem partner, new customers | [Apply](https://launchdarkly.com/launchdarkly-for-startups) |
 
 ### Authentication & Identity
 
@@ -170,6 +179,7 @@ Product analytics, user behavior tracking, and insights platforms.
 | ![Amplitude](https://img.shields.io/badge/Amplitude-1E1E1E?logo=amplitude&logoColor=white) **Startup Program** | 1 year free Growth plan | Startups less than 3 years old, less than $10M raised | [Apply](https://amplitude.com/startups) |
 | ![Mixpanel](https://img.shields.io/badge/Mixpanel-7856FF?logo=mixpanel&logoColor=white) **Startup Program** | First year free on Startup Plan (up to 1B events/year, all features) | Incorporated less than 5 years ago, raised no more than $8M, new customers | [Apply](https://mixpanel.com/startups/) |
 | ![PostHog](https://img.shields.io/badge/PostHog-000000?logo=posthog&logoColor=white) **Startup Program** | $50,000 in credits for 1 year | Startups less than 2 years old, less than $5M raised | [Apply](https://posthog.com/startups) |
+| ![Segment](https://img.shields.io/badge/Segment-52BD94?logo=segment&logoColor=white) **Startup Program** | $50,000 in credits for 1 year, additional year if qualified, then 50% off, then 25% off | Raised less than $5M, founded less than 2 years ago, new customers | [Apply](https://segment.com/startups/) |
 
 ---
 
@@ -184,6 +194,9 @@ Customer relationship management and marketing automation platforms.
 | ![ActiveCampaign](https://img.shields.io/badge/ActiveCampaign-0064FF?logo=activecampaign&logoColor=white) **Incubator Program** | 90% off any annual plan for first year | Less than 2 years old, incubator partner/alum, less than $1M funding, new customers | [Apply](https://activecampaign.com/start-up) |
 | ![Customer.io](https://img.shields.io/badge/Customer.io-00A2FF?logo=customer.io&logoColor=white) **Startup Program** | Free for 12 months (Startup plan, 30K profiles included) | Less than $10M funding, contact lists not purchased, new customers | [Apply](https://customer.io/solutions/startups) |
 | ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?logo=hubspot&logoColor=white) **HubSpot for Startups** | Up to 90% off first year (less than $2M funding), up to 50% off year 2 | Seed stage or Series A startups affiliated with approved partner or verified funding | [Apply](https://www.hubspot.com/startups) |
+| ![Apollo](https://img.shields.io/badge/Apollo.io-2962FF?logoColor=white) **Apollo for Startups** | 50% off for 1 year (up to 5 seats), full B2B database access | Fewer than 20 employees, no existing subscription, affiliated with partner | [Apply](https://www.apollo.io/partners/startup-ecosystem) |
+| ![Attio](https://img.shields.io/badge/Attio-000000?logoColor=white) **Startup Program** | Up to 80% off Pro plan for 1 year (up to 10 seats), 50% off if raised over $5M | Venture-funded, raised up to $5M, incorporated less than 5 years, apply within 90 days of sign-up | [Apply](https://attio.com/startups) |
+| ![Freshworks](https://img.shields.io/badge/Freshworks-F36C00?logoColor=white) **Freshworks for Startups** | $4,000 in credits across Freshworks suite (CRM, Freshdesk, Freshchat, Freshcaller), mentorship access | Early-stage startups | [Apply](https://www.freshworks.com/partners/startup-program/) |
 
 ### Email & Messaging
 
@@ -210,6 +223,8 @@ Task management, productivity, and work tracking tools.
 | ![Linear](https://img.shields.io/badge/Linear-5E6AD2?logo=linear&logoColor=white) **Startup Program** | Up to 6 months free / 1 year free on Basic or Business plans (2 seats, Secret) | Startups with less than 50 employees, affiliated with partner | [Apply](https://linear.app/startups) |
 | ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white) **Notion for Startups** | 6 months free Plus plan with unlimited AI, up to $6,000 value | Startups less than 2 years old, less than $10M raised | [Apply](https://www.notion.so/startups) |
 | ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white) **AWS Activate** | 6 months free Business Plan + Unlimited AI | Via AWS Activate Portfolio | [Apply](https://aws.amazon.com/startups/offers) |
+| ![Coda](https://img.shields.io/badge/Coda-F46A54?logo=coda&logoColor=white) **Startup Program** | 6 months free Team plan | Early-stage startups | [Apply](https://coda.io/solutions/team-size/startups) |
+| ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?logo=airtable&logoColor=white) **Startup Program** | Up to $2,000 in credits | Via HubSpot for Startups or partner programs | [Apply](https://www.hubspot.com/startups/customers/dashboard/offers/airtable) |
 
 ### Collaboration & Whiteboarding
 
@@ -256,6 +271,8 @@ No-code website creation and publishing platforms.
 |----------|-------|-------------|------|
 | ![Framer](https://img.shields.io/badge/Framer-0055FF?logo=framer&logoColor=white) **Startup Program** | Free year of Startup Plan (worth $900) or Pro Plan | Pre-seed or seed stage, backed by approved partner, new users | [Apply](https://www.framer.com/startups/) |
 | ![Webflow](https://img.shields.io/badge/Webflow-4353FF?logo=webflow&logoColor=white) **Startup Program** | 100% off CMS site plan for 1 year | Working with startup partner, fewer than 50 employees, raised less than $15M, new customers | [Apply](https://webflow.com/startups) |
+| ![Typeform](https://img.shields.io/badge/Typeform-262627?logo=typeform&logoColor=white) **Startup Program** | Up to 75% off annual Business plan for 1 year | Less than $5M funding, fewer than 50 employees, less than 5 years old, new customers | [Apply](https://www.typeform.com/partners/startups) |
+| ![DocSend](https://img.shields.io/badge/DocSend-00A4BD?logoColor=white) **Startup Program** | Up to 90% off for 1 year (Seed: 90%, Series A: 50%, Series B+: 20%) | Startups by funding stage, via partner VCs/accelerators, new customers | [Apply](https://experience.dropbox.com/docsend/partner-signup) |
 
 ---
 
@@ -267,6 +284,55 @@ Payment processing, subscription billing, and financial services.
 |----------|-------|-------------|------|
 | ![Chargebee](https://img.shields.io/badge/Chargebee-FF5733?logoColor=white) **Startup Program** | Launch plan free for 12 months | Startups less than 3 years old, less than $1M ARR | [Apply](https://www.chargebee.com/startups/) |
 | ![Stripe](https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white) **Stripe Atlas** | Waived processing fees for first $100K in revenue (1 year) | Atlas-incorporated companies | [Apply](https://stripe.com/atlas) |
+| ![Stripe](https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white) **Stripe Startups** | Waived processing fees or fee credits, community access, expert resources | Early-stage, venture-backed startups with proof of institutional funding | [Apply](https://stripe.com/startups) |
+| ![Carta](https://img.shields.io/badge/Carta-000000?logoColor=white) **Startup Stack** | 20% off first year + waived implementation fees for equity management | New Carta customers, via partner programs | [Apply](https://carta.com/partners/startup-stack/) |
+| ![Mercury](https://img.shields.io/badge/Mercury-5851DB?logoColor=white) **Business Banking** | $250 cash bonus when depositing $10K within 90 days, $0 monthly fees | US-based businesses, new Mercury customers | [Apply](https://mercury.com/) |
+
+---
+
+## HR & Payroll
+
+Human resources, payroll, and workforce management platforms.
+
+| Provider | Offer | Eligibility | Link |
+|----------|-------|-------------|------|
+| ![Deel](https://img.shields.io/badge/Deel-2962FF?logo=deel&logoColor=white) **Startup Credits** | $1,500 in Deel credits via Carta, or $500 credits via other partners | New Deel customers, via partner programs (Carta, Secret, etc.) | [Apply](https://carta.com/partners/startup-stack/) |
+| ![Remote](https://img.shields.io/badge/Remote-5C4EE5?logoColor=white) **Remote for Startups** | 15% off all Remote services for 12 months (EOR, Payroll, Contractors, HRIS) | Pre-seed to Series A funding from VC, accelerator, or incubator | [Apply](https://remote.com/global-hr/startups) |
+| ![Rippling](https://img.shields.io/badge/Rippling-FFC107?logoColor=black) **Startup Stack** | Up to 6 months free (Payroll, Benefits, HR, IT, Device Management) | US VC-backed startups, new Rippling customers, via partner programs | [Apply](https://www.rippling.com/startup-stack) |
+| ![Gusto](https://img.shields.io/badge/Gusto-F45D48?logo=gusto&logoColor=white) **Startup Offer** | Up to $200 reward after first payroll, 25% off for first 3 months | New Gusto customers | [Apply](https://gusto.com/) |
+
+---
+
+## Security & Compliance
+
+Security compliance, SOC 2, and trust management platforms.
+
+| Provider | Offer | Eligibility | Link |
+|----------|-------|-------------|------|
+| ![Vanta](https://img.shields.io/badge/Vanta-5C4EE5?logoColor=white) **Vanta for Startups** | $1,000 off Vanta subscription | New customers, not already engaged with Vanta sales team | [Apply](https://vanta.com/solutions/startup) |
+| ![Drata](https://img.shields.io/badge/Drata-5C4EE5?logoColor=white) **Drata for Startups** | Preferred benefits and pricing for first contract | Startups at all funding stages, via participating VC partners | [Apply](https://drata.com/partner/startup-program) |
+| ![1Password](https://img.shields.io/badge/1Password-0094F5?logo=1password&logoColor=white) **1Password for Open Source** | Free 1Password Teams account (unlimited duration) | Active open source projects with public repo | [Apply](https://github.com/1Password/for-open-source) |
+
+---
+
+## Communication & Video
+
+Video conferencing, async video, and communication platforms.
+
+| Provider | Offer | Eligibility | Link |
+|----------|-------|-------------|------|
+| ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white) **Zoom for Startups** | 1 year free Zoom Workplace Business Plus (up to 25 seats) | Pre-seed to Series A, fewer than 50 employees, affiliated with select startup partners, new customers | [Apply](https://www.zoom.com/en/lp/zoom-for-startups/) |
+| ![Dialpad](https://img.shields.io/badge/Dialpad-6C47FF?logoColor=white) **Dialpad for Startups** | 10 free seats of Dialpad Connect + Meetings for life, additional product discounts | VC-backed startups, scalable business, up to 25 employees, new customers | [Apply](https://www.dialpad.com/dialpad-for-startups/) |
+
+---
+
+## Legal & E-Signature
+
+Document management, e-signatures, and contract platforms.
+
+| Provider | Offer | Eligibility | Link |
+|----------|-------|-------------|------|
+| ![PandaDoc](https://img.shields.io/badge/PandaDoc-00B2A9?logoColor=white) **Startup Stack** | Free eSign plan for startups: unlimited uploads, e-signatures, payments | Startups and small teams | [Apply](https://www.pandadoc.com/startup-stack/) |
 
 ---
 
@@ -276,11 +342,18 @@ Platforms that aggregate multiple startup deals, discounts, and perks in one pla
 
 | Provider | Offer | Eligibility | Link |
 |----------|-------|-------------|------|
+| ![YC Deals](https://img.shields.io/badge/YC_Deals-FF6600?logoColor=white) **YC Deals** | Over $500K in free credits and discounts, 100+ deals on industry-leading tools | YC companies and YC event attendees | [Visit](https://deals.ycombinator.com/) |
 | ![FounderPass](https://img.shields.io/badge/FounderPass-000000?logoColor=white) **FounderPass** | Over $3M in savings, 350+ verified deals | Free tier available, Premium and Lifetime plans | [Visit](https://www.founderpass.com/) |
 | ![Secret](https://img.shields.io/badge/Secret-000000?logoColor=white) **Secret** | Over $1M in software savings, 700+ exclusive discounts | Free access, Premium plans available | [Visit](https://www.joinsecret.com/) |
+| ![NachoNacho](https://img.shields.io/badge/NachoNacho-FF6B35?logoColor=white) **NachoNacho** | Over $5M in SaaS savings, 900+ products, up to 30% lifetime discounts | Free access, all businesses eligible | [Visit](https://nachonacho.com/) |
+| ![Ramp](https://img.shields.io/badge/Ramp-00D26A?logoColor=white) **Ramp Partner Rewards** | Over $350,000 in partner rewards across 50+ categories | Ramp cardholders | [Visit](https://ramp.com/rewards) |
+| ![Firstbase](https://img.shields.io/badge/Firstbase-4F46E5?logoColor=white) **Firstbase Rewards** | Over $350,000 in perks: Stripe, Notion, Intercom, Deel, Carta, and more | Firstbase customers (incorporation service) | [Visit](https://www.firstbase.io/rewards) |
+| ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white) **Startup Perks** | Partner benefits from Anthropic, MongoDB, Datadog, Elastic, and more | Google for Startups Cloud Program members | [Visit](https://cloud.google.com/startup/perks) |
+| ![F6S](https://img.shields.io/badge/F6S-000000?logoColor=white) **F6S Deals** | Software deals and discounts from major providers | F6S members, startups worldwide | [Visit](https://www.f6s.com/company-deals) |
 | ![SeedReady](https://img.shields.io/badge/SeedReady-000000?logoColor=white) **SeedReady** | Over $750K in startup deals | Free access | [Visit](https://www.seedready.org/startup-deals/) |
 | ![StartGround](https://img.shields.io/badge/StartGround-000000?logoColor=white) **StartGround** | Over $1M in deals and free credits | Startup community membership | [Visit](https://startground.com/) |
 | ![Startup Stack](https://img.shields.io/badge/Startup_Stack-000000?logoColor=white) **Startup Stack** | Founder-only discounts, curated by accelerators/VCs | Free 5-day trial, then $19.95/month | [Visit](https://startupstack.com/founders) |
+| ![Brex](https://img.shields.io/badge/Brex-000000?logoColor=white) **Day Zero Stack** | Partner perks: Superhuman (1yr free), GitHub Enterprise (20 seats free), OpenAI ($2,500 credits), Framer (1yr free), ElevenLabs (3mo free), AWS ($5K credits), Anthropic ($500 credits), Notion (6mo free), Carta (20% off), Slack (30% off) | Brex customers only | [Visit](https://www.brex.com/dayzerostack) |
 
 ---
 
