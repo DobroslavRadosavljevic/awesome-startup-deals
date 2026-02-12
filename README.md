@@ -330,22 +330,45 @@ AWS Activate provides access to exclusive offers from partner companies, includi
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request. Please read the [contributing guidelines](CONTRIBUTING.md) first.
+External contributions are welcome. Please read the full guide in [CONTRIBUTING.md](CONTRIBUTING.md) before opening a PR.
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-startup-deal`)
-3. Commit your changes (`git commit -m 'Add some amazing startup deal'`)
-4. Push to the branch (`git push origin feature/amazing-startup-deal`)
-5. Open a Pull Request
+### External Contributor Workflow
 
-### Guidelines
+1. Fork this repository to your GitHub account.
+2. Create a branch from `main` (example: `feat/add-provider-deal` or `fix/update-provider-offer`).
+3. Update `README.md` in the correct category and keep entries alphabetical within the table.
+4. Verify the deal is active and the link points to the official provider program page.
+5. Commit with a clear message (example: `Add <Provider> startup program`).
+6. Push your branch to your fork.
+7. Open a Pull Request to this repository's `main` branch.
+8. In the PR description, include what changed and links/sources used for verification.
 
-- Only add startup deals that are currently active
-- Ensure the deal has clear terms and eligibility requirements
-- Add a brief description and eligibility criteria
-- Include relevant technology badges
-- Keep entries alphabetical within each section
-- Check your spelling and grammar
+### Pull Request Checklist
+
+- The deal is startup-specific and currently active.
+- Offer value and eligibility are clear and concise.
+- The provider is not duplicated in the same section.
+- The table row format matches existing entries.
+- The entry is placed alphabetically in its section.
+- All links are working.
+
+### Entry Format
+
+Use this format for new rows:
+
+```markdown
+| ![Provider](badge-url) **Program Name** | Offer details | Eligibility requirements | [Apply](official-link) |
+```
+
+### Reporting Problems
+
+If you find outdated or incorrect info, open an issue with:
+
+- Provider/program name
+- What is incorrect or outdated
+- Source link showing the latest details
+
+All contributors are expected to follow the [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Author
 
