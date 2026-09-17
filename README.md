@@ -408,6 +408,7 @@ Platforms that aggregate multiple startup deals, discounts, and perks in one pla
 | ![Secret](https://img.shields.io/badge/Secret-000000?logoColor=white) **Secret** | Over $1M in software savings, 700+ exclusive discounts | Free access, Premium plans available | [Visit](https://www.joinsecret.com/) |
 | ![SeedReady](https://img.shields.io/badge/SeedReady-000000?logoColor=white) **SeedReady** | Over $750K in startup deals | Free access | [Visit](https://www.seedready.org/startup-deals/) |
 | ![StartGround](https://img.shields.io/badge/StartGround-000000?logoColor=white) **StartGround** | Over $1M in deals and free credits | Startup community membership | [Visit](https://startground.com/) |
+| ![StartupPerks](https://img.shields.io/badge/StartupPerks-000000?logoColor=white) **StartupPerks** | $500K+ in partner perks across 600+ programs, ranked by what you actually qualify for, each figure cited to its source | Free, no signup to see matches | [Visit](https://startupperks.co) |
 | ![Startup Stack](https://img.shields.io/badge/Startup_Stack-000000?logoColor=white) **Startup Stack** | Founder-only discounts, curated by accelerators/VCs | Free 5-day trial, then $19.95/month | [Visit](https://startupstack.com/founders) |
 
 ---
