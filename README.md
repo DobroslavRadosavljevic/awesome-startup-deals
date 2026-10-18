@@ -406,6 +406,7 @@ Platforms that aggregate multiple startup deals, discounts, and perks in one pla
 | Provider | Offer | Eligibility | Link |
 | -------- | ----- | ----------- | ---- |
 | ![FounderPass](https://img.shields.io/badge/FounderPass-000000?logoColor=white) **FounderPass** | Over $3M in savings, 350+ verified deals | Free tier available, Premium and Lifetime plans | [Visit](https://www.founderpass.com/) |
+| ![SaaS Black Friday](https://img.shields.io/badge/SaaS_Black_Friday-000000?logoColor=white) **SaaS Black Friday** | Tracker of 240 SaaS & AI tool Black Friday/Cyber Monday deals; past offers labelled by year, 2026 deals verified as they go live | Free access, no signup | [Visit](https://saasblackfriday.online/) |
 | ![Secret](https://img.shields.io/badge/Secret-000000?logoColor=white) **Secret** | Over $1M in software savings, 700+ exclusive discounts | Free access, Premium plans available | [Visit](https://www.joinsecret.com/) |
 | ![SeedReady](https://img.shields.io/badge/SeedReady-000000?logoColor=white) **SeedReady** | Over $750K in startup deals | Free access | [Visit](https://www.seedready.org/startup-deals/) |
 | ![StartGround](https://img.shields.io/badge/StartGround-000000?logoColor=white) **StartGround** | Over $1M in deals and free credits | Startup community membership | [Visit](https://startground.com/) |
