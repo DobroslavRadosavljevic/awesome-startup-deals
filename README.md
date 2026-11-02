@@ -413,6 +413,7 @@ Platforms that aggregate multiple startup deals, discounts, and perks in one pla
 | ![StartGround](https://img.shields.io/badge/StartGround-000000?logoColor=white) **StartGround** | Over $1M in deals and free credits | Startup community membership | [Visit](https://startground.com/) |
 | ![StartupPerks](https://img.shields.io/badge/StartupPerks-000000?logoColor=white) **StartupPerks** | $500K+ in partner perks across 600+ programs, ranked by what you actually qualify for, each figure cited to its source | Free, no signup to see matches | [Visit](https://startupperks.co) |
 | ![Startup Stack](https://img.shields.io/badge/Startup_Stack-000000?logoColor=white) **Startup Stack** | Founder-only discounts, curated by accelerators/VCs | Free 5-day trial, then $19.95/month | [Visit](https://startupstack.com/founders) |
+| ![FreeDiscountCoupons](https://img.shields.io/badge/FreeDiscountCoupons-000000?logoColor=white) **FreeDiscountCoupons** | Verified coupons, promo codes, and deals from thousands of stores including Aliexpress, NordVPN, Temu, Vevor, Namecheap, and Bluehost | Free access, no signup | [Visit](https://freediscountcoupons.com) |
 
 ---
 
