@@ -406,6 +406,7 @@ Platforms that aggregate multiple startup deals, discounts, and perks in one pla
 
 | Provider | Offer | Eligibility | Link |
 | -------- | ----- | ----------- | ---- |
+| ![Deal Hunter](https://img.shields.io/badge/Deal_Hunter-000000?logoColor=white) **Deal Hunter** | 120+ verified free tiers, credits and sign-up bonuses across AI tools, cloud, fintech and eSIM, each offer linked to its official page and re-checked every two hours | Free access, no signup | [Visit](https://vvotzs.github.io/en/) |
 | ![FounderPass](https://img.shields.io/badge/FounderPass-000000?logoColor=white) **FounderPass** | Over $3M in savings, 350+ verified deals | Free tier available, Premium and Lifetime plans | [Visit](https://www.founderpass.com/) |
 | ![SaaS Black Friday](https://img.shields.io/badge/SaaS_Black_Friday-000000?logoColor=white) **SaaS Black Friday** | Tracker of 240 SaaS & AI tool Black Friday/Cyber Monday deals; past offers labelled by year, 2026 deals verified as they go live | Free access, no signup | [Visit](https://saasblackfriday.online/) |
 | ![Secret](https://img.shields.io/badge/Secret-000000?logoColor=white) **Secret** | Over $1M in software savings, 700+ exclusive discounts | Free access, Premium plans available | [Visit](https://www.joinsecret.com/) |
