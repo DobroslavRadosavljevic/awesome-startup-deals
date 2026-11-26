@@ -183,6 +183,7 @@ Source control, CI/CD, and DevOps platforms.
 
 | Provider | Offer | Eligibility | Link |
 | -------- | ----- | ----------- | ---- |
+| ![BrandShield](https://img.shields.io/badge/BrandShield-10B981?logoColor=white) **BrandShield & ShipBastion Launch Suite** | 100% free 78-TLD instant RDAP/USPTO/typosquatting clearance plus 83% off ($5 one-time vs $29 regular) lifetime pre-launch security, email DNS, and AI search audit pass | Open to all indie founders and early-stage startups (no accelerator required) | [Apply](https://brand.shipbastion.com) |
 | ![Chainguard](https://img.shields.io/badge/Chainguard-3656F5?logoColor=white) **Google Cloud Perks** | Up to 15% off Chainguard images | Via Google for Startups Cloud Program Scale Tier | [Apply](https://cloud.google.com/startup/perks) |
 | ![CrowdStrike](https://img.shields.io/badge/CrowdStrike-E01E5A?logo=crowdstrike&logoColor=white) **AWS Activate (Cloud Security)** | Up to 60% off Falcon Cloud Security for first year | Via AWS Activate offers | [Apply](https://aws.amazon.com/startups/offers) |
 | ![CrowdStrike](https://img.shields.io/badge/CrowdStrike-E01E5A?logo=crowdstrike&logoColor=white) **AWS Activate (Endpoint Protection)** | Up to 60% off Falcon Endpoint Protection for first year | Via AWS Activate offers | [Apply](https://aws.amazon.com/startups/offers) |
